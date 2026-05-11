@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Ayush Rai 👋<br><br>Aspiring Data Analyst passionate about turning raw data into meaningful insights.<br>Skilled in SQL, Python, Power BI, and Excel with hands-on experience in data cleaning,<br>exploratory data analysis, reporting, and dashboard creation. Currently looking for <br>entry-level Data Analyst opportunities where I can apply analytical thinking and <br>problem-solving skills to real-world business challenges.<br><br>
+Hi there, I'm Ayush Rai 👋<br>Aspiring Data Analyst skilled in SQL, Python, Power BI, and Excel, passionate about transforming <br>data into actionable business insights through analysis, reporting, and dashboard creation.<br><br>
 
 
 ## 🌐 Socials:
